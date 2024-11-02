@@ -7,6 +7,7 @@ This repository contains data about GitHub users in Boston, who have over 100 fo
 1. `users.csv`: Contains information about 470 GitHub users in Boston with over 100 followers
 2. `repositories.csv`: Contains information about 42640 public repositories from these users
 3. `gitscrap.py`: Python script used to collect this data
+4. `Analysis_code.zip`: Contains all the analysis code python files
 
 ## Data Collection
 
